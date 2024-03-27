@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722388815162",
+    "project_id": "nammabus-3ec61",
+    "storage_bucket": "nammabus-3ec61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722388815162:android:ba7bce8912224224c91403",
+        "android_client_info": {
+          "package_name": "com.example.namma_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKlTir1W7a8aJod5LXBAgfAe0VLg4B0_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
